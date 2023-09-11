@@ -6,7 +6,7 @@ build-backend = "setuptools.build_meta"
 name = "adoutils"
 version = "0.2.0"
 authors = [
-    { name="Gonzalo Pincheira", email="g.pincheira.a@gmail.com" },
+    { name="Bastián Sepúlveda", email="bastian.sepulveda.silva@gmail.com" },
 ]
 description = "A small example package"
 readme = "README.md"
@@ -21,5 +21,5 @@ dependencies = [
 ]
 
 [project.urls]
-"Homepage" = "https://github.com/gpincheiraa/ado-utils"
-"Bug Tracker" = "https://github.com/gpincheiraa/ado-utils/issues"
+"Homepage" = "https://github.com/beiache/ado-utils-python-package-beiache"
+"Bug Tracker" = "https://github.com/beiache/ado-utils-python-package-beiaches/issues"
